@@ -1,0 +1,21 @@
+{
+  "name": "Кубатурник досок",
+  "short_name": "Кубатурник",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#2563eb",
+  "description": "Приложение для расчета кубатуры необрезной доски по длине, толщине и ширине",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/logs.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/logs.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
